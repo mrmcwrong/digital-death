@@ -8,3 +8,11 @@ Discussion of Claudia Hart's <em>Digital Death</em>
 GatorGrade will check your response for word count and formatting, but your grade won't be final until the professor reads and evaluates what you've written. 
 Make sure that you are formatting your response as a [paragraph](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#paragraphs) and not a [heading](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings) -- GatorGrade will not include headings in its word count. 
 
+### To summarize, successful responses will: 
+- Exist inside response.md
+- Answer three questions: 
+    - What is on the screen? 
+    - How do you think it was made? 
+    - What does it mean to you?
+- Contain at least 100 words in paragraph (not header) format 
+
